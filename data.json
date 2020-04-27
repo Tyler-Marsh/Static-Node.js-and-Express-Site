@@ -1,0 +1,27 @@
+{
+  "projects":[
+  { "id":0, "project_name": "Dungeons and Dragons 5th edition Combat Chance Calculator",
+  "description": "This project calculates the probabilities a character has to succeed in combat. In D&D 5th edition, sometimes a player rolls more than one dice and this changes how to arrive at the odds. If there are 20 sides of a dice then each side represents 5% of your chance in most circumstances, combined with your base numbers leads to fairly simple math. But how do you calculate you chances if you roll 2-3 dice and keep the lowest number or highest number? This math isn't practical to do on the spot and isn't intuitive to many, so I made this to do it.", "technologies": ["HTML", "CSS", "JavaScript"], "live_link": "https://dreadgreaves.github.io/DnDCalc/", "github_link": "https://github.com/dreadgreaves/DnDCalc", "image_urls": ["/images/project0-pic1.png", "/images/project0-pic2.png", "/images/project0-pic3.png", "/images/project0-pic4.png"], "cover": "/images/project0-pic1.png" },
+
+  {"id": 1, "project_name":"Random Quote Generator", "description": "This project shows random quotes, allows users to create their to be displayed, and go back to former quotes.", "technologies" : ["HTML", "CSS", "JavaScript"], "live_link": "https://dreadgreaves.github.io/RandomQuoteGenerator/", "github_link": "https://github.com/dreadgreaves/RandomQuoteGenerator",
+  "image_urls": ["/images/project1-pic1.png", "/images/project1-pic2.png", "/images/project1-pic3.png", "/images/project1-pic4.png"], "cover": "/images/project1-pic1.png"},
+
+  
+  {"id": 2, "project_name":"Pagination", "description": "This project paginates a page with JavaScript. There are links at the bottom to display which page you want to display. The solution implemented allows for any number of users to be displayed, but I displayed 10 as the specifications called for 10.", "technologies" : ["JavaScript", "HTML", "CSS"], "live_link": "https://dreadgreaves.github.io/pagination/", "github_link": "https://github.com/dreadgreaves/pagination",
+    "image_urls": ["/images/project2-pic1.png", "/images/project2-pic2.png", "/images/project2-pic3.png","/images/project2-pic4.png"], "cover": "/images/project2-pic4.png"},
+
+  
+  {"id": 3, "project_name":"Interactive Form", "description": "Using regular expression and logic to create a form validiation for all the fields. This includes making sure that no two dates at the same time are selected, the appropriate t-shirts are selected based on user preference, credit card, name and email inputs are checked with regex.", "technologies" : ["JavaScript", "Regex", "HTML", "CSS"], "live_link": "https://dreadgreaves.github.io/interactiveForm/", "github_link": "https://github.com/dreadgreaves/interactiveForm", "image_urls": ["/images/project3-pic1.png", "/images/project3-pic2.png", "/images/project3-pic3.png","/images/project3-pic4.png"], "cover": "/images/project3-pic3.png"},
+
+
+  
+  {"id": 4, "project_name":"OOP Game", "description": "Implement a phrase guesing game using Javascript's Object Oriented programming syntax.", "technologies" : ["JavaScript", "Regex", "HTML", "CSS"], "live_link": "https://dreadgreaves.github.io/OOP_game", "github_link": "https://github.com/dreadgreaves/OOP_game", "image_urls": ["/images/project4-pic1.png", "/images/project4-pic2.png", "/images/project4-pic3.png","/images/project4-pic4.png"], "cover":"/images/project4-pic2.png"},
+
+  
+  {"id": 5, "project_name":"Employee Contact List", "description": "Connect to an API to display fake employee information. The results are filterable, and each employee can be clicked to see more detailed information.", "technologies" : ["JavaScript", "Regex", "HTML", "CSS", "AJAX"], "live_link": "https://dreadgreaves.github.io/publicApiProject/", "github_link": "https://github.com/dreadgreaves/publicApiProject", "image_urls": ["/images/project5-pic1.png", "/images/project5-pic2.png", "/images/project5-pic3.png","/images/project5-pic4.png", "/images/project5-pic5.png"], "cover": "/images/project5-pic1.png"},
+
+
+  
+  {"id": 6, "project_name":"Star Wars API", "description": "Connect to the star wars API to display information on Star Wars topic such as characters, planets, and starships.", "technologies" : ["JavaScript","HTML", "CSS", "AJAX"], "live_link": "https://dreadgreaves.github.io/apiPracticeSwapi/", "github_link": "https://github.com/dreadgreaves/apiPracticeSwapi", "image_urls": ["/images/project6-pic1.png", "/images/project6-pic2.png", "/images/project6-pic3.png","/images/project6-pic4.png"], "cover": "/images/project6-pic1.png"}   
+]
+}

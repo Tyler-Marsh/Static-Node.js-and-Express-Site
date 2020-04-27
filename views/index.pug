@@ -1,0 +1,23 @@
+extends layout.pug
+
+block content 
+  article.grid-container.portfolio-intro
+    div
+
+      h1 My Super Cool Portfolio
+
+      p.lead.text-light
+        | This project is for showing my progress in web development/coding. Doing these projects
+        | will enable me to build a solid foundation to build apps in the future.
+  article.grid-container.portfolio-index
+    
+    .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
+
+      each project in projects
+      
+        .cell.projCard
+          a(href=`/projects/${project.id}`)
+            img.thumbnail(src=`${project.cover}`)
+            h5= project.project_name
+
+      
