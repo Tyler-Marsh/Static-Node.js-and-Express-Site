@@ -28,6 +28,5 @@ app.use('/', indexRouter);
 
 app.use(function (req, res, next) {
   console.log("404 error occurred requested resource could not be served.");
-  res.status(404).render('error'
-  );
+  res.render('error');
 });
