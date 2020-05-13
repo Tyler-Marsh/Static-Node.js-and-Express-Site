@@ -15,4 +15,4 @@ npm start
 
 #### More Details
 
-This utilizes error handling and routing using express. The projects are rendered from templates by getting data from a JSON file.
+This project utilizes error handling and routing using express. The projects are rendered from templates by getting data from a JSON file.
