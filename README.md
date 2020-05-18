@@ -5,12 +5,14 @@ Create a portfolio site using express and pug templating.
 ![](readme-pics/project-layouts.png)
 
 # Install
-
+```
 npm install
+```
 
 # Run
-
+```
 npm start
+```
 
 
 #### More Details
