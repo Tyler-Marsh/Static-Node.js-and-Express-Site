@@ -1,7 +1,7 @@
 var express = require('express');
 var path = require('path');
 var indexRouter = require('./routes/index')
-const port = 3000;
+const port = process.env.PORT || 3000;
 //var indexRouter = require('./routes/index');
 var app = express();
 // view engine setup
