@@ -2,6 +2,12 @@
 
 Create a portfolio site using express and pug templating.
 
+## TRY IT OUT 
+
+Deployed to Heroku!
+
+https://myprojectnumbersix.herokuapp.com/
+
 ![](readme-pics/project-layouts.png)
 
 # Install
